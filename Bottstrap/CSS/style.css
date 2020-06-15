@@ -1,0 +1,208 @@
+*{
+    box-sizing: border-box;
+}
+html{
+    scroll-behavior: smooth;
+}
+
+/*Nave bar css code Start Here*/
+.logo{
+    width: 200px;
+    height: 80px;
+}
+.about-img{
+    width: 100%;
+    height: 300px;
+}
+.nav-bgcolor{
+background-color: #478631;
+}
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
+drop-itemhover:hover{
+    background-color: #f39314;
+    border-radius: 20px;
+}
+.nev-hoverColor:hover{
+    background-color: #f39314;
+}
+/*Nav Bar css code End Here*/
+/*Lander page Css Code Start Here*/
+#SBRTechnologyLand{
+    height: 100vh;
+    width: 100%;
+}
+/*Lander page css Code End Here*/
+/*Index Page card css Code Start Here*/
+.popular-course-description{
+    text-align: center;
+    word-spacing: 3px;
+    letter-spacing: 1px;
+}
+.main-card-courses{
+    width: 300px;
+    height: 600px;
+}
+.main-card-courses:hover{
+
+}
+/*index page card Css code Start Here*/
+.about-welcome-img{
+    margin-right: 20px;
+    border-radius: 10px;
+}
+.about-why-img1{
+    margin-left: 20px;
+    border-radius: 10px;
+    margin-top: 100px;
+}
+.about-sbr-welcome{
+    margin-left: 20px;
+}
+.our-team-info{
+    font-family: "Helvetica Neue";
+    font-size: 20px;
+}
+.our-team{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    border: 5px solid green;
+}
+.instute-add{
+    border: 2px solid black;
+}
+
+.ourtem-info{
+    font-family: Arial,"Helvetica Neue", "Roboto", sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.main-sbr-why-sbr-cont{
+    border-radius: 20px;
+    background-color: #0b2e13;
+    color: #996000;
+    word-spacing: 3px;
+    letter-spacing: 1px;
+    padding: 10px;
+}
+.about-sbr-welcome{
+    font-family: "Helvetica Neue";
+    text-align: left;
+    word-spacing: 3px;
+    letter-spacing: 1px;
+    margin-top: 20px;
+}
+.why-sbr-text{
+    font-family: "Helvetica Neue";
+    text-align: left;
+    word-spacing: 3px;
+    letter-spacing: 1px;
+    margin-top: 20px;
+}
+.footer-background{
+    background-color: rgba(0,0,0,0.7);
+}
+.footer-link{
+    font-size: 20px;
+    font-family: "Helvetica Neue";
+    text-align: left;
+    color: white;
+    padding-bottom: 5px;
+    border-bottom: 2px solid white;
+}
+.footer-nva-link{
+    color: white;
+}
+.footer-nav{
+    color: white;
+}
+.footer-nav-link{
+    font-family: "Helvetica Neue";
+    text-align: left;
+    color: white;
+    padding-bottom: 5px;
+    border-bottom: 2px solid white;
+}
+/* Fixed/sticky icon bar (vertically aligned 50% from the top of the screen) */
+.icon-bar {
+    position: fixed;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+/* Style the icon bar links */
+.icon-bar a {
+    display: block;
+    text-align: center;
+    padding: 16px;
+    transition: all 0.3s ease;
+    color: white;
+    font-size: 20px;
+}
+
+/* Style the social media icons with color, if you want */
+.icon-bar a:hover {
+    background-color: #000;
+}
+
+.facebook {
+    background: #3B5998;
+    color: white;
+}
+
+.twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+.google {
+    background: #dd4b39;
+    color: white;
+}
+
+.linkedin {
+    background: #007bb5;
+    color: white;
+}
+
+.youtube {
+    background: #bb0000;
+    color: white;
+}
+.career-main-container{
+    font-family: "Helvetica Neue";
+}
+.career-main-para{
+    font-family: "Helvetica Neue";
+    word-spacing: 3px;
+    letter-spacing: 1px;
+    color: black;
+    font-size: 20px;
+}
+.career-opertunity{
+    word-spacing: 5px;
+    padding: 2px;
+    font-size: 20px;
+}
+/*Courses Page css code start here*/
+.courses-heading{
+    font-family: "Helvetica Neue";
+    border-bottom: 2px solid #0d47a1;
+}
+.text-wrapper{
+    font-family: "Helvetica Neue";
+    word-spacing: 2px;
+    text-align: left;
+    font-size: 18px;
+}
+.img-not-fount{
+    margin-top: 250px;
+}
+.gallery-space{
+    margin-bottom: 300px;
+}
