@@ -27,6 +27,9 @@ drop-itemhover:hover{
 .nev-hoverColor:hover{
     background-color: #f39314;
 }
+.link-margin{
+    font-size: 20px;
+}
 /*Nav Bar css code End Here*/
 /*Lander page Css Code Start Here*/
 #SBRTechnologyLand{
@@ -36,7 +39,8 @@ drop-itemhover:hover{
 /*Lander page css Code End Here*/
 /*Index Page card css Code Start Here*/
 .popular-course-description{
-    text-align: center;
+    margin-left: 6px;
+    text-align: left;
     word-spacing: 3px;
     letter-spacing: 1px;
 }
@@ -46,6 +50,9 @@ drop-itemhover:hover{
 }
 .main-card-courses:hover{
 
+}
+.btn-read-more{
+    border: 1px  solid white;
 }
 /*index page card Css code Start Here*/
 .about-welcome-img{
@@ -205,4 +212,7 @@ drop-itemhover:hover{
 }
 .gallery-space{
     margin-bottom: 300px;
+}
+.address-1{
+    border-left: 1px solid black;
 }

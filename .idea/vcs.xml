@@ -3,6 +3,9 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$/SBR-Technology" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/SBR-Technology/GITHUBUPLOAD/SBR-Technology" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SBR-Website" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SBRTechnology" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SBRTechnology/SBR-Website" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/SBR_Tech" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/SBR_Tech/SBR-Technology" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/SBR_Tech/SBR-Technology/SBR-Technology" vcs="Git" />
